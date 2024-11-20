@@ -1,0 +1,89 @@
+body {
+    background-image: url("../assets/img/BG.png");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.home-container {
+    max-width: 570px;
+    max-height: 360px;
+    background-color: #194569;
+    font-family: thin;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: #fff;
+    font-size: 28px;
+    border-radius: 6px;
+
+
+}
+
+.home-container-dialog {
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 20px 0px;
+
+}
+
+.home-button-container {
+    position: absolute;
+    top: 74px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: max-content;
+    height: max-content;
+    margin: auto;
+
+}
+
+.container-button {
+    display: block;
+    margin-bottom: 18px;
+    width: 380px;
+    border: none;
+    padding: 12px 0px;
+    font-size: 16px;
+    font-family: thin;
+    background-color: #5F84A2;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.container-button:hover {
+    background-color: #91AEC4;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.existing-patient-submit {
+    font-family: 'Medium';
+    font-size: 14px;
+    border: none;
+    padding: 6px;
+    width: 100%;
+    border-radius: 4px;
+    background-color: #5F84A2;
+    color: #fff;
+    cursor: pointer;
+}
+
+.existing-patient-submit:hover {
+    background-color: #91AEC4;
+    transition: all 0.2s;
+}
+.existing-patient-container-dialog {
+    position: absolute;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 26px 0px;
+
+}

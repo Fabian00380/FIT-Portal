@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+input {
+    outline: none;
+}
+
+@font-face {
+    font-family: BlackItalic;
+    src: url(../assets/fonts/Montserrat-BlackItalic.woff);
+}
+@font-face {
+    font-family: BoldItalic;
+    src: url(../assets/fonts/Montserrat-BoldItalic.woff);
+}
+@font-face {
+    font-family: ExtraBoldItalic;
+    src: url(../assets/fonts/Montserrat-ExtraBoldItalic.woff);
+}
+@font-face {
+    font-family: ExtraLightItalic;
+    src: url(../assets/fonts/Montserrat-ExtraLightItalic.woff);
+}
+@font-face {
+    font-family: LightItalic;
+    src: url(../assets/fonts/Montserrat-LightItalic.woff);
+}
+@font-face {
+    font-family: MediumItalic;
+    src: url(../assets/fonts/Montserrat-MediumItalic.woff);
+}
+@font-face {
+    font-family: SemiBoldItalic;
+    src: url(../assets/fonts/Montserrat-SemiBoldItalic.woff);
+}
+@font-face {
+    font-family: ThinItalic;
+    src: url(../assets/fonts/Montserrat-ThinItalic.woff);
+}
+
+@font-face {
+    font-family: Black;
+    src: url(../assets/fonts/Montserrat-Black.woff);
+}
+@font-face {
+    font-family: Bold;
+    src: url(../assets/fonts/Montserrat-Bold.woff);
+}
+@font-face {
+    font-family: ExtraBold;
+    src: url(../assets/fonts/Montserrat-ExtraBold.woff);
+}
+@font-face {
+    font-family: ExtraLight;
+    src: url(../assets/fonts/Montserrat-ExtraLight.woff);
+}
+@font-face {
+    font-family: Italic;
+    src: url(../assets/fonts/Montserrat-Italic.woff);
+}
+@font-face {
+    font-family: Light;
+    src: url(../assets/fonts/Montserrat-Light.woff);
+}
+@font-face {
+    font-family: Medium;
+    src: url(../assets/fonts/Montserrat-Medium.woff);
+}
+@font-face {
+    font-family: Regular;
+    src: url(../assets/fonts/Montserrat-Regular.woff);
+}
+@font-face {
+    font-family: SemiBold;
+    src: url(../assets/fonts/Montserrat-SemiBold.woff);
+}
+@font-face {
+    font-family: Thin;
+    src: url(../assets/fonts/Montserrat-Thin.woff);
+}
